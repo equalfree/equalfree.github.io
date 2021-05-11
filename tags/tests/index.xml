@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>equalfree&#39;s Blog</title>
-    <link>https://equalfree.github.io/</link>
-    <description>Recent content on equalfree&#39;s Blog</description>
+    <title>tests on equalfree&#39;s Blog</title>
+    <link>https://equalfree.github.io/tags/tests/</link>
+    <description>Recent content in tests on equalfree&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/tags/tests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Built but not finished</title>
       <link>https://equalfree.github.io/hello-world/</link>

@@ -6,14 +6,14 @@
     <description>Recent content in Posts on equalfree&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>欢迎来到 Hugo 世界</title>
+      <title>Built but not finished</title>
       <link>https://equalfree.github.io/hello-world/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://equalfree.github.io/hello-world/</guid>
-      <description>欢迎来到 Hugo 世界。 开始自己的博客之旅。</description>
+      <description>这是第零篇文章，等摸透了具体怎么工作之后，会有关于在这里写什么的文章。近期要配置的是RSS，毕竟没有RSS很难说它是个blog。 即使是第零篇</description>
     </item>
     
   </channel>
