@@ -1,3 +1,9 @@
+---
+title: "Things I Like"
+date: 2021-05-11
+tags: daily
+---
+
 # Things I Like
 
 当年吹哥在[自己的博客](http://number-none.com/blow/ "滑到最底下")最下面留了几行 **“Things I Like”**。现在我也开始折腾博客，自然也想照猫画虎地写一篇 **“Things I Like”**。 另一个原因是ZA/UM写[极乐迪斯科的灵感来源](https://steamcommunity.com/games/632470/announcements/detail/3334287173823797601)，不也就是ZA/UM的Things I Like。 从一个创作者的 Things I Like 跳到另一个创作者的 Things I Like，很像李如一老师说的 Wikipedia Reading [“稍后随机再读”](https://yitianshijie.net/episodes/80)。我不是创作者，但是如果您好奇，那真是不胜荣幸。
