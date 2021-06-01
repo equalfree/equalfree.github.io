@@ -16,5 +16,14 @@
       <description>这是第零篇文章，等摸透了具体怎么工作之后，会有关于在这里写什么的文章。近期要配置的是RSS，毕竟没有RSS很难说它是个blog。 即使是第零篇</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://equalfree.github.io/things-i-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://equalfree.github.io/things-i-like/</guid>
+      <description>Things I Like 当年吹哥在自己的博客最下面留了几行 “Things I Like”。现在我也开始折腾博客，自然也想照猫画虎地写一篇 “Things I Like”</description>
+    </item>
+    
   </channel>
 </rss>
