@@ -6,7 +6,16 @@
     <description>Recent content in Posts on equalfree&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://equalfree.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>想象第三人称的自己</title>
+      <link>https://equalfree.github.io/%E6%83%B3%E8%B1%A1%E7%AC%AC%E4%B8%89%E4%BA%BA%E7%A7%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://equalfree.github.io/%E6%83%B3%E8%B1%A1%E7%AC%AC%E4%B8%89%E4%BA%BA%E7%A7%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
+      <description>StackExchange 上有一整个Chinese Language 的版块。一个非母语者如何看待妳自己的母语，他们会在什么地方感到困惑。 试着来看这个问题 1-这个故事发生在上个世纪末</description>
+    </item>
+    
     <item>
       <title>Built but not finished</title>
       <link>https://equalfree.github.io/hello-world/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://equalfree.github.io/hello-world/</guid>
       <description>这是第零篇文章，等摸透了具体怎么工作之后，会有关于在这里写什么的文章。近期要配置的是RSS，毕竟没有RSS很难说它是个blog。 即使是第零篇</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://equalfree.github.io/%E6%83%B3%E8%B1%A1%E7%AC%AC%E4%B8%89%E4%BA%BA%E7%A7%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://equalfree.github.io/%E6%83%B3%E8%B1%A1%E7%AC%AC%E4%B8%89%E4%BA%BA%E7%A7%B0%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
-      <description>想象第三人称的自己 StackExchange 上有一整个Chinese Language 的版块。一个非母语者如何看待妳自己的母语，他们会在什么地方感到困惑。 试着来看这个问题 1-这个故</description>
     </item>
     
     <item>
