@@ -1,7 +1,7 @@
 baseURL = "https://equalfree.github.io/"
 languageCode = "zh-CN"
 title = "equalfree's Blog"
-theme = "eureka"
+theme = "hyde"
 disqusShortname = ""
 hasCJKLanguage = true
 enableEmoji = true
